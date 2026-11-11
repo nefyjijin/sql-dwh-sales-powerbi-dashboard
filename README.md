@@ -22,7 +22,7 @@ This project involved the following end-to-end data engineering and BI tasks:
 - **DAX Calculations & Measures:** Built a dedicated `MeasuresTable` containing custom DAX measures for Profit Margin %, Average Order Value, Average Selling Price, Average Shipping Days, Sales MTD, Sales per Customer, and Dynamic Titles.
 - **Interactive Navigation & UX:** Implemented custom page navigation buttons, global slicers (Category, Country, Year), and dynamic page titles.
 
-<img alt="Star Schema Data Model" src="./screenshots/data_model.png">
+<img alt="Star Schema Data Model" src="./screenshots/model_view_star_schema.png">
 
 ## Dashboard Elements
 #### 1. Sales Overview
